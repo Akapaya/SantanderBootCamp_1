@@ -1,0 +1,2 @@
+C:\Projects\SantanderBootCamp1\x64\Debug\SantanderBootCamp1.exe
+C:\Projects\SantanderBootCamp_1\x64\Debug\SantanderBootCamp1.exe
